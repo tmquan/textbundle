@@ -29,7 +29,6 @@ def main():
     for idx, character in enumerate(characters):
         print(character, embeddings[idx])
 
-
 if __name__ == "__main__":
     main()
 
