@@ -1,4 +1,4 @@
-from base_embedding import BaseEmbedding
+from .base_embedding import BaseEmbedding
 
 class CharEmbedding(BaseEmbedding):
     def __init__(
