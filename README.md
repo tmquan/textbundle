@@ -1,2 +1,2 @@
-# textbundle
-This implements various tasks of text
+# textkit
+This implements various tasks of text processing
